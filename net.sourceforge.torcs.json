@@ -4,7 +4,7 @@
     "runtime-version": "1.6",
     "sdk": "org.freedesktop.Sdk",
     "finish-args": [
-        "--device=dri",
+        "--device=all",
         "--persist=.torcs",
         "--share=ipc",
         "--socket=x11",
