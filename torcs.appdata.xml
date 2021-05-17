@@ -6,8 +6,10 @@ SentUpstream: 2014-05-22
 -->
 <application>
   <id type="desktop">torcs.desktop</id>
+  <name>TORCS</name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
+  <summary>The Open Racing Car Simulator</summary>
   <description>
     <p>
      TORCS is a highly portable multi platform car racing simulation.
