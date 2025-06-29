@@ -37,8 +37,16 @@ SentUpstream: 2014-05-22
   </releases>
   <content_rating type="oars-1.1" />
   <screenshots>
-    <screenshot type="default">http://a.fsdn.com/con/app/proj/torcs/screenshots/torcs-20121025123603.png</screenshot>
-    <screenshot>http://a.fsdn.com/con/app/proj/torcs/screenshots/torcs-20121025125922.png</screenshot>
+    <screenshot type="default">
+      <image>
+        http://a.fsdn.com/con/app/proj/torcs/screenshots/torcs-20121025123603.png
+      </image>
+    </screenshot>
+    <screenshot>
+      <image>
+        http://a.fsdn.com/con/app/proj/torcs/screenshots/torcs-20121025125922.png
+      </image>
+    </screenshot>
   </screenshots>
   <url type="homepage">http://torcs.sourceforge.net/</url>
 </component>
