@@ -1,7 +1,7 @@
 diff --git a/torcs/torcs/src/linux/linuxspec.cpp b/torcs/torcs/src/linux/linuxspec.cpp
 index 0558edf4..0c29a2dd 100644
---- a/torcs/torcs/src/linux/linuxspec.cpp
-+++ b/torcs/torcs/src/linux/linuxspec.cpp
+--- a/torcs/src/linux/linuxspec.cpp
++++ b/torcs/src/linux/linuxspec.cpp
 @@ -437,9 +437,6 @@ linuxModUnloadList(tModList **modlist)
  {
  	tModList *curMod;
