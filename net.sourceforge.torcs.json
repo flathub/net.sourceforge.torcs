@@ -100,7 +100,7 @@
                 "make datainstall",
                 "install -Dm644 torcs.desktop -t /app/share/applications/",
                 "install -Dm644 icon.png /app/share/icons/hicolor/32x32/apps/torcs.png",
-                "install -Dm644 net.sourceforge.torcs.png -t /app/share/icons/hicolor/128x128/apps/",
+                "install -Dm644 net.sourceforge.torcs.png -t /app/share/icons/hicolor/256x256/apps/",
                 "install -Dm644 net.sourceforge.torcs.metainfo.xml -t /app/share/metainfo/"
             ],
             "sources": [
