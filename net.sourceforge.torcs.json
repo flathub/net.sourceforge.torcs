@@ -27,14 +27,15 @@
         {
             "name": "freeglut",
             "buildsystem": "cmake-ninja",
+            "config-opts": ["-DCMAKE_POLICY_VERSION_MINIMUM=3.5"],
             "build-options": {
                 "cflags": "-fcommon"
             },
             "sources": [
                 {
-                    "type": "archive",
-                    "url": "https://downloads.sourceforge.net/project/freeglut/freeglut/3.2.1/freeglut-3.2.1.tar.gz",
-                    "sha256": "d4000e02102acaf259998c870e25214739d1f16f67f99cb35e4f46841399da68"
+                    "type": "git",
+                    "url": "https://github.com/freeglut/freeglut.git",
+                    "commit": "1f1c0c11e9e900fa32948714f4d184952406b0f3"
                 }
             ]
         },
